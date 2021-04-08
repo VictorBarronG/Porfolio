@@ -5,7 +5,7 @@
 ##Contact Information
 
 * Email - `Vbarron@talentpath.com`
-* LinkedIn - [Click Here](https://www.linkedin.com/in/victor-barron-25031a194/)
+* LinkedIn - [Link Here](https://www.linkedin.com/in/victor-barron-25031a194/)
 
 
 
