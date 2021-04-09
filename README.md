@@ -40,7 +40,7 @@ Dealership Website
 * Springboot
 * Maven
 
-![alt text](https://imgur.com/zP92qlT)
+![alt text](https://imgur.com/a/feE5mfi)
 
 --
 
