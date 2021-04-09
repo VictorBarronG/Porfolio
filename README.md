@@ -42,7 +42,7 @@ Dealership Website
 
 ![alt text](https://i.imgur.com/zP92qlT.png)
 
---
+---
 
 Find My Paradise
 
