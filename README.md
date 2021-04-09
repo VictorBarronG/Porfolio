@@ -1,6 +1,5 @@
 # Victor Barron Portfolio
 
-![some-alt-text]()
 
 ## Contact Information
 
@@ -40,6 +39,8 @@ Dealership Website
 * PostegreSQL
 * Springboot
 * Maven
+
+![alt text](https://imgur.com/zP92qlT)
 
 --
 
