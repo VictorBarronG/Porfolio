@@ -1,7 +1,11 @@
 # Victor Barron Portfolio
 
 
+
+
 ## Contact Information
+
+
 
 * Email - `Vbarron@talentpath.com`
 * [LinkedIn](https://www.linkedin.com/in/victor-barron-25031a194/)
