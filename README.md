@@ -48,6 +48,6 @@ Find My Paradise
 
 * Worked in a team of 12 to create a look a like airbnb listing. This was worked on over the course of 2 weeks using agile methodologies and Github as our way of sharing code. We succesfully completed this project and were even able to deploy the database as well as our backend to AWS. The listing was capable of displaying a listing with all of its information, as well as creating a reservation for dates selected, and viewing more things to do and more listings available depending on the surrounding area of the listing.
 
-![alt text]()
+![alt text](https://i.imgur.com/eIfccVi.png)
 
 
