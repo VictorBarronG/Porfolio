@@ -66,16 +66,16 @@ Find My Paradise
 --
 
 Nile
-*This project was developed with the same team that helped develop the Find My Paradise project. This project was worked on over the course of 4 weeks using agile methodologies. We successfully recreated a look a like amazon website which has a home page, individual product listing pages, and various other functions such as adding to cart and checking out. My primary task in this project was to implement the the product listing's Questions and answer component which allowed users to ask questions, answer questions, as well as upvoting and downvoting and integrating a search functionality.
-*React
-*HTML/CSS
-*Javascript
-*PostgreSQL
-*Java
-*Gradle
-*SpringBoot
-*Jenkins
-*AWS
+* This project was developed with the same team that helped develop the Find My Paradise project. This project was worked on over the course of 4 weeks using agile methodologies. We successfully recreated a look a like amazon website which has a home page, individual product listing pages, and various other functions such as adding to cart and checking out. My primary task in this project was to implement the the product listing's Questions and answer component which allowed users to ask questions, answer questions, as well as upvoting and downvoting and integrating a search functionality.
+* React
+* HTML/CSS
+* Javascript
+* PostgreSQL
+* Java
+* Gradle
+* SpringBoot
+* Jenkins
+* AWS
 
 ![alt text](https://i.imgur.com/bbnbgCM.gif)
 
