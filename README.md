@@ -15,7 +15,7 @@
 ---
 
 ## Summary
-* FullStack Engineer with proficiencies in Java, Javascript, Angular, Vue, Html/Css, MySQL, PostgreSQL, Springboot, JPA and Hibernate.
+* FullStack Engineer with proficiencies in Java, Javascript, Angular, Vue, ReactJs, Html/Css, MySQL, PostgreSQL, Springboot, JPA and Hibernate.
 
 
 ---
